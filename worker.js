@@ -160,7 +160,7 @@ function processMirrors() {
                     }
                 }
             }
-            break;
+            //break;
         }
     };
     req.send();
